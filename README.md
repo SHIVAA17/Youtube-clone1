@@ -1,5 +1,5 @@
 #Live Website
-[youtube-clone](resplendent-pie-b39f17.netlify.app)
+resplendent-pie-b39f17.netlify.app
 
 
 # Getting Started with Create React App
